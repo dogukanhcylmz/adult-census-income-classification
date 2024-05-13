@@ -19,9 +19,8 @@
   - various data preprocessing, 
   - feature engineering steps,
   - trying different regression models 
-- Hyperparameter tuning using grid search
 
-#### This project is the final project of the "Supervised Machine Learning: Classification" course given by IBM on Coursera. I have completed it with a Honor Degree and here is the [link](https://www.coursera.org/account/accomplishments/verify/HTWETW6ST7R5)
+#### This project is the final project of the "Supervised Machine Learning: Classification" course given by IBM on Coursera. I have completed the course and here is the [link](https://www.coursera.org/account/accomplishments/verify/HTWETW6ST7R5)
 
 ### ✔ Results and Insights
 - Balancing the data is crucial because it ensures that the predictive model is not biased towards the majority class, leading to more accurate and fair predictions. When one class heavily outweighs the others, the model may become biased, neglecting the minority classes.
